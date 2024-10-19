@@ -23,8 +23,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/Chiwanza16/Blog-Preview-Card.git)
-- Live Site URL: [Live site](https://chiwanza16.github.io/Blog-Preview-Card/)
+- Solution URL: [Solution URL](https://github.com/Chiwanza16/Social-links.git)
+- Live Site URL: [Live site](https://chiwanza16.github.io/Social-links/)
 
 ## My process
 
